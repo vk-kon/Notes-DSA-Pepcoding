@@ -33,9 +33,20 @@
 - [Trie](L2/Trie.md)
 
 ---
-
 ### L3 Topics
 
-(Provide links to L3 topics in a similar fashion once they are available)
+- [Binary Lifting](L3/Binary%20Lifting.md)
+- [Constructive Algorithm](L3/Constructive%20Algorithm.md)
+- [DP](L3/DP.md)
+- [Euler Tour](L3/Euler%20Tour.md)
+- [Game Theory](L3/Game%20Theory.md)
+- [Geometry](L3/Geometry.md)
+- [HLD](L3/HLD.md)
+- [Interactive Problems](L3/Interactive%20Problems.md)
+- [Maths for CP](L3/Maths%20for%20CP.md)
+- [Number Theory](L3/Number%20Theory.md)
+- [Range Queries](L3/Range%20Queries.md)
+- [Segment Tree](L3/Segment%20Tree.md)
+- [Text Processing](L3/Text%20Processing.md)
 
 ---
