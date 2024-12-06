@@ -20,8 +20,6 @@
 
 ### L2 Topics
 
-### L2 Topics
-
 - [Arrays and Strings](L2/Arrays%20and%20Strings.md)
 - [Bit Manipulation](L2/Bit%20Manipulation.md)
 - [Binary Trees](L2/Binary%20Trees.md)
