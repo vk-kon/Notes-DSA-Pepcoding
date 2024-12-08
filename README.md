@@ -4,6 +4,7 @@
 
 The **L1** topics focus on the foundational concepts of data structures and algorithms. 
 
+- [Intro to Java Foundation](L1/Intro%20to%20Java%20Foundation.md)
 - [Functions and Arrays](L1/Functions%20and%20Arrays.md)
 - [Strings, String Builders, and ArrayLists](L1/Strings%2C%20String%20Builders%20and%20ArrayLists.md)
 - [2D Arrays](L1/2D%20Arrays.md)
