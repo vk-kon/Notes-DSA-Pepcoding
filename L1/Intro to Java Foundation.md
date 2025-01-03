@@ -1,6 +1,5 @@
-# List of Problems
+# List of Problems - Intro to Java Foundations
 
-Welcome to the curated list of 50 problems. Below is an attractive table with five columns for easier navigation. Click on any problem name to jump to its details below.
 
 | Column 1                | Column 2                | Column 3                | Column 4                | Column 5                |
 |-------------------------|-------------------------|-------------------------|-------------------------|-------------------------|
