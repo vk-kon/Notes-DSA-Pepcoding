@@ -1,6 +1,6 @@
 # List of Problems - Intro to Java Foundations
 
-| Column 1                | Column 2                | Column 3                | Column 4                | Column 5                |
+|                 |                |                 |                |                 |
 |-------------------------|-------------------------|-------------------------|-------------------------|-------------------------|
 | [Problem 1](#problem-1)  | [Problem 11](#problem-11) | [Problem 21](#problem-21) | [Problem 31](#problem-31) | [Problem 41](#problem-41) |
 | [Problem 2](#problem-2)  | [Problem 12](#problem-12) | [Problem 22](#problem-22) | [Problem 32](#problem-32) | [Problem 42](#problem-42) |
