@@ -1,17 +1,17 @@
 # List of Problems
 
-| Column 1                | Column 2                | Column 3                | Column 4                | Column 5                |
-|-------------------------|-------------------------|-------------------------|-------------------------|-------------------------|
-| [Problem 1](#problem-1)  | [Problem 11](#problem-11) | [Problem 21](#problem-21) | [Problem 31](#problem-31) | [Problem 41](#problem-41) |
-| [Problem 2](#problem-2)  | [Problem 12](#problem-12) | [Problem 22](#problem-22) | [Problem 32](#problem-32) | [Problem 42](#problem-42) |
-| [Problem 3](#problem-3)  | [Problem 13](#problem-13) | [Problem 23](#problem-23) | [Problem 33](#problem-33) | [Problem 43](#problem-43) |
-| [Problem 4](#problem-4)  | [Problem 14](#problem-14) | [Problem 24](#problem-24) | [Problem 34](#problem-34) | [Problem 44](#problem-44) |
-| [Problem 5](#problem-5)  | [Problem 15](#problem-15) | [Problem 25](#problem-25) | [Problem 35](#problem-35) | [Problem 45](#problem-45) |
-| [Problem 6](#problem-6)  | [Problem 16](#problem-16) | [Problem 26](#problem-26) | [Problem 36](#problem-36) | [Problem 46](#problem-46) |
-| [Problem 7](#problem-7)  | [Problem 17](#problem-17) | [Problem 27](#problem-27) | [Problem 37](#problem-37) | [Problem 47](#problem-47) |
-| [Problem 8](#problem-8)  | [Problem 18](#problem-18) | [Problem 28](#problem-28) | [Problem 38](#problem-38) | [Problem 48](#problem-48) |
-| [Problem 9](#problem-9)  | [Problem 19](#problem-19) | [Problem 29](#problem-29) | [Problem 39](#problem-39) | [Problem 49](#problem-49) |
-| [Problem 10](#problem-10)| [Problem 20](#problem-20) | [Problem 30](#problem-30) | [Problem 40](#problem-40) | [Problem 50](#problem-50) |
+| Column 1                 | Column 2                 | Column 3                 | Column 4                 | Column 5                 |
+|--------------------------|--------------------------|--------------------------|--------------------------|--------------------------|
+| [P1](#problem-1)  | [P11](#problem-11) | [P21](#problem-21) | [P31](#problem-31) | [P41](#problem-41) |
+| [P2](#problem-2)  | [P12](#problem-12) | [P22](#problem-22) | [P32](#problem-32) | [P42](#problem-42) |
+| [P3](#problem-3)  | [P13](#problem-13) | [P23](#problem-23) | [P33](#problem-33) | [P43](#problem-43) |
+| [P4](#problem-4)  | [P14](#problem-14) | [P24](#problem-24) | [P34](#problem-34) | [P44](#problem-44) |
+| [P5](#problem-5)  | [P15](#problem-15) | [P25](#problem-25) | [P35](#problem-35) | [P45](#problem-45) |
+| [P6](#problem-6)  | [P16](#problem-16) | [P26](#problem-26) | [P36](#problem-36) | [P46](#problem-46) |
+| [P7](#problem-7)  | [P17](#problem-17) | [P27](#problem-27) | [P37](#problem-37) | [P47](#problem-47) |
+| [P8](#problem-8)  | [P18](#problem-18) | [P28](#problem-28) | [P38](#problem-38) | [P48](#problem-48) |
+| [P9](#problem-9)  | [P19](#problem-19) | [P29](#problem-29) | [P39](#problem-39) | [P49](#problem-49) |
+| [P10](#problem-10)| [P20](#problem-20) | [P30](#problem-30) | [P40](#problem-40) | [P50](#problem-50---test) |
 
 ---
 
@@ -19,201 +19,600 @@
 
 ### Problem 1
 
+**Description**:
+(Add your detailed problem description here.)
+
+**Solution**:
+(Add the solution, code, or explanation here.)
+
 [Back to Table of Contents](#list-of-problems)
+
+---
 
 ### Problem 2
 
+**Description**:
+(Add your detailed problem description here.)
+
+**Solution**:
+(Add the solution, code, or explanation here.)
+
 [Back to Table of Contents](#list-of-problems)
+
+---
 
 ### Problem 3
 
+**Description**:
+(Add your detailed problem description here.)
+
+**Solution**:
+(Add the solution, code, or explanation here.)
+
 [Back to Table of Contents](#list-of-problems)
+
+---
 
 ### Problem 4
 
+**Description**:
+(Add your detailed problem description here.)
+
+**Solution**:
+(Add the solution, code, or explanation here.)
+
 [Back to Table of Contents](#list-of-problems)
+
+---
 
 ### Problem 5
 
+**Description**:
+(Add your detailed problem description here.)
+
+**Solution**:
+(Add the solution, code, or explanation here.)
+
 [Back to Table of Contents](#list-of-problems)
+
+---
 
 ### Problem 6
 
+**Description**:
+(Add your detailed problem description here.)
+
+**Solution**:
+(Add the solution, code, or explanation here.)
+
 [Back to Table of Contents](#list-of-problems)
+
+---
 
 ### Problem 7
 
+**Description**:
+(Add your detailed problem description here.)
+
+**Solution**:
+(Add the solution, code, or explanation here.)
+
 [Back to Table of Contents](#list-of-problems)
+
+---
 
 ### Problem 8
 
+**Description**:
+(Add your detailed problem description here.)
+
+**Solution**:
+(Add the solution, code, or explanation here.)
+
 [Back to Table of Contents](#list-of-problems)
+
+---
 
 ### Problem 9
 
+**Description**:
+(Add your detailed problem description here.)
+
+**Solution**:
+(Add the solution, code, or explanation here.)
+
 [Back to Table of Contents](#list-of-problems)
+
+---
 
 ### Problem 10
 
+**Description**:
+(Add your detailed problem description here.)
+
+**Solution**:
+(Add the solution, code, or explanation here.)
+
 [Back to Table of Contents](#list-of-problems)
+
+---
 
 ### Problem 11
 
+**Description**:
+(Add your detailed problem description here.)
+
+**Solution**:
+(Add the solution, code, or explanation here.)
+
 [Back to Table of Contents](#list-of-problems)
+
+---
 
 ### Problem 12
 
+**Description**:
+(Add your detailed problem description here.)
+
+**Solution**:
+(Add the solution, code, or explanation here.)
+
 [Back to Table of Contents](#list-of-problems)
+
+---
 
 ### Problem 13
 
+**Description**:
+(Add your detailed problem description here.)
+
+**Solution**:
+(Add the solution, code, or explanation here.)
+
 [Back to Table of Contents](#list-of-problems)
+
+---
 
 ### Problem 14
 
+**Description**:
+(Add your detailed problem description here.)
+
+**Solution**:
+(Add the solution, code, or explanation here.)
+
 [Back to Table of Contents](#list-of-problems)
+
+---
 
 ### Problem 15
 
+**Description**:
+(Add your detailed problem description here.)
+
+**Solution**:
+(Add the solution, code, or explanation here.)
+
 [Back to Table of Contents](#list-of-problems)
+
+---
 
 ### Problem 16
 
+**Description**:
+(Add your detailed problem description here.)
+
+**Solution**:
+(Add the solution, code, or explanation here.)
+
 [Back to Table of Contents](#list-of-problems)
+
+---
 
 ### Problem 17
 
+**Description**:
+(Add your detailed problem description here.)
+
+**Solution**:
+(Add the solution, code, or explanation here.)
+
 [Back to Table of Contents](#list-of-problems)
+
+---
 
 ### Problem 18
 
+**Description**:
+(Add your detailed problem description here.)
+
+**Solution**:
+(Add the solution, code, or explanation here.)
+
 [Back to Table of Contents](#list-of-problems)
+
+---
 
 ### Problem 19
 
+**Description**:
+(Add your detailed problem description here.)
+
+**Solution**:
+(Add the solution, code, or explanation here.)
+
 [Back to Table of Contents](#list-of-problems)
+
+---
 
 ### Problem 20
 
+**Description**:
+(Add your detailed problem description here.)
+
+**Solution**:
+(Add the solution, code, or explanation here.)
+
 [Back to Table of Contents](#list-of-problems)
+
+---
 
 ### Problem 21
 
+**Description**:
+(Add your detailed problem description here.)
+
+**Solution**:
+(Add the solution, code, or explanation here.)
+
 [Back to Table of Contents](#list-of-problems)
+
+---
 
 ### Problem 22
 
+**Description**:
+(Add your detailed problem description here.)
+
+**Solution**:
+(Add the solution, code, or explanation here.)
+
 [Back to Table of Contents](#list-of-problems)
+
+---
 
 ### Problem 23
 
+**Description**:
+(Add your detailed problem description here.)
+
+**Solution**:
+(Add the solution, code, or explanation here.)
+
 [Back to Table of Contents](#list-of-problems)
+
+---
 
 ### Problem 24
 
+**Description**:
+(Add your detailed problem description here.)
+
+**Solution**:
+(Add the solution, code, or explanation here.)
+
 [Back to Table of Contents](#list-of-problems)
+
+---
 
 ### Problem 25
 
+**Description**:
+(Add your detailed problem description here.)
+
+**Solution**:
+(Add the solution, code, or explanation here.)
+
 [Back to Table of Contents](#list-of-problems)
+
+---
 
 ### Problem 26
 
+**Description**:
+(Add your detailed problem description here.)
+
+**Solution**:
+(Add the solution, code, or explanation here.)
+
 [Back to Table of Contents](#list-of-problems)
+
+---
 
 ### Problem 27
 
+**Description**:
+(Add your detailed problem description here.)
+
+**Solution**:
+(Add the solution, code, or explanation here.)
+
 [Back to Table of Contents](#list-of-problems)
+
+---
 
 ### Problem 28
 
+**Description**:
+(Add your detailed problem description here.)
+
+**Solution**:
+(Add the solution, code, or explanation here.)
+
 [Back to Table of Contents](#list-of-problems)
+
+---
 
 ### Problem 29
 
+**Description**:
+(Add your detailed problem description here.)
+
+**Solution**:
+(Add the solution, code, or explanation here.)
+
 [Back to Table of Contents](#list-of-problems)
+
+---
 
 ### Problem 30
 
+**Description**:
+(Add your detailed problem description here.)
+
+**Solution**:
+(Add the solution, code, or explanation here.)
+
 [Back to Table of Contents](#list-of-problems)
+
+---
 
 ### Problem 31
 
+**Description**:
+(Add your detailed problem description here.)
+
+**Solution**:
+(Add the solution, code, or explanation here.)
+
 [Back to Table of Contents](#list-of-problems)
+
+---
 
 ### Problem 32
 
+**Description**:
+(Add your detailed problem description here.)
+
+**Solution**:
+(Add the solution, code, or explanation here.)
+
 [Back to Table of Contents](#list-of-problems)
+
+---
 
 ### Problem 33
 
+**Description**:
+(Add your detailed problem description here.)
+
+**Solution**:
+(Add the solution, code, or explanation here.)
+
 [Back to Table of Contents](#list-of-problems)
+
+---
 
 ### Problem 34
 
+**Description**:
+(Add your detailed problem description here.)
+
+**Solution**:
+(Add the solution, code, or explanation here.)
+
 [Back to Table of Contents](#list-of-problems)
+
+---
 
 ### Problem 35
 
+**Description**:
+(Add your detailed problem description here.)
+
+**Solution**:
+(Add the solution, code, or explanation here.)
+
 [Back to Table of Contents](#list-of-problems)
+
+---
 
 ### Problem 36
 
+**Description**:
+(Add your detailed problem description here.)
+
+**Solution**:
+(Add the solution, code, or explanation here.)
+
 [Back to Table of Contents](#list-of-problems)
+
+---
 
 ### Problem 37
 
+**Description**:
+(Add your detailed problem description here.)
+
+**Solution**:
+(Add the solution, code, or explanation here.)
+
 [Back to Table of Contents](#list-of-problems)
+
+---
 
 ### Problem 38
 
+**Description**:
+(Add your detailed problem description here.)
+
+**Solution**:
+(Add the solution, code, or explanation here.)
+
 [Back to Table of Contents](#list-of-problems)
+
+---
 
 ### Problem 39
 
+**Description**:
+(Add your detailed problem description here.)
+
+**Solution**:
+(Add the solution, code, or explanation here.)
+
 [Back to Table of Contents](#list-of-problems)
+
+---
 
 ### Problem 40
 
+**Description**:
+(Add your detailed problem description here.)
+
+**Solution**:
+(Add the solution, code, or explanation here.)
+
 [Back to Table of Contents](#list-of-problems)
+
+---
 
 ### Problem 41
 
+**Description**:
+(Add your detailed problem description here.)
+
+**Solution**:
+(Add the solution, code, or explanation here.)
+
 [Back to Table of Contents](#list-of-problems)
+
+---
 
 ### Problem 42
 
+**Description**:
+(Add your detailed problem description here.)
+
+**Solution**:
+(Add the solution, code, or explanation here.)
+
 [Back to Table of Contents](#list-of-problems)
+
+---
 
 ### Problem 43
 
+**Description**:
+(Add your detailed problem description here.)
+
+**Solution**:
+(Add the solution, code, or explanation here.)
+
 [Back to Table of Contents](#list-of-problems)
+
+---
 
 ### Problem 44
 
+**Description**:
+(Add your detailed problem description here.)
+
+**Solution**:
+(Add the solution, code, or explanation here.)
+
 [Back to Table of Contents](#list-of-problems)
+
+---
 
 ### Problem 45
 
+**Description**:
+(Add your detailed problem description here.)
+
+**Solution**:
+(Add the solution, code, or explanation here.)
+
 [Back to Table of Contents](#list-of-problems)
+
+---
 
 ### Problem 46
 
+**Description**:
+(Add your detailed problem description here.)
+
+**Solution**:
+(Add the solution, code, or explanation here.)
+
 [Back to Table of Contents](#list-of-problems)
+
+---
 
 ### Problem 47
 
+**Description**:
+(Add your detailed problem description here.)
+
+**Solution**:
+(Add the solution, code, or explanation here.)
+
 [Back to Table of Contents](#list-of-problems)
+
+---
 
 ### Problem 48
 
+**Description**:
+(Add your detailed problem description here.)
+
+**Solution**:
+(Add the solution, code, or explanation here.)
+
 [Back to Table of Contents](#list-of-problems)
+
+---
 
 ### Problem 49
 
+**Description**:
+(Add your detailed problem description here.)
+
+**Solution**:
+(Add the solution, code, or explanation here.)
+
 [Back to Table of Contents](#list-of-problems)
 
-### Problem 50
+---
+
+### Problem 50 - Test
+
+**Description**:
+(Add your detailed problem description here.)
+
+**Solution**:
+(Add the solution, code, or explanation here.)
 
 [Back to Table of Contents](#list-of-problems)
 
+---
