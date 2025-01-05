@@ -1,14 +1,12 @@
 # 🌟 Table of Contents
 
-Welcome to the **comprehensive guide** on _Data Structures and Algorithms_.  
-This document is organized into three levels: foundational, intermediate, and advanced topics.
+Welcome to the **comprehensive guide** on _Data Structures and Algorithms_.  This document is organized into three levels: foundational, intermediate, and advanced topics.
 
 ---
 
 ## 📝 **Template for Notes**
 
-To maintain consistency and clarity while taking notes, refer to the  
-[**Template for Notes**](Template%20for%20Notes.md). Use this template as a guide to structure your understanding of each topic.
+To maintain consistency and clarity while taking notes, refer to the  [**Template for Notes**](Template%20for%20Notes.md). Use this template as a guide to structure your understanding of each topic.
 
 ---
 
