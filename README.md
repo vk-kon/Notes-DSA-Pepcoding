@@ -1,8 +1,12 @@
 # Table of Contents
 
-## L1 Topics
+Welcome to the comprehensive guide on **Data Structures and Algorithms**. This document is organized into three levels: foundational, intermediate, and advanced topics.
 
-The **L1** topics focus on the foundational concepts of data structures and algorithms. 
+---
+
+## 📘 L1 Topics (Foundational Concepts)
+
+The **L1** topics focus on the foundational concepts of data structures and algorithms. Start here to build a strong base.
 
 - [Intro to Java Foundation](L1/Intro%20to%20Java%20Foundation.md)
 - [Functions and Arrays](L1/Functions%20and%20Arrays.md)
@@ -21,7 +25,7 @@ The **L1** topics focus on the foundational concepts of data structures and algo
 
 ---
 
-## L2 Topics
+## 📗 L2 Topics (Intermediate Concepts)
 
 The **L2** topics cover intermediate concepts and deepen your understanding of algorithms and data structures.
 
@@ -39,7 +43,7 @@ The **L2** topics cover intermediate concepts and deepen your understanding of a
 
 ---
 
-## L3 Topics
+## 📙 L3 Topics (Advanced Techniques)
 
 The **L3** topics explore advanced techniques, often used in competitive programming, system design, and optimization problems.
 
@@ -59,6 +63,6 @@ The **L3** topics explore advanced techniques, often used in competitive program
 
 ---
 
-## Quick Navigation
+## 🔗 Quick Navigation
 
-- [Back to top](#table-of-contents)
+- [⬆️ Back to top](#table-of-contents)
