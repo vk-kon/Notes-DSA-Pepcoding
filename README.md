@@ -4,6 +4,12 @@ Welcome to the **comprehensive guide** on _Data Structures and Algorithms_. This
 
 ---
 
+## 📝 Template for Notes
+
+To maintain consistency and clarity while taking notes, refer to the [Template for Notes](Template%20for%20Notes.md). Use this template as a guide to structure your understanding of each topic.
+
+---
+
 ## 🟦 L1 Topics (Foundational Concepts)
 
 The **L1** topics focus on building a strong foundation in data structures and algorithms. 🚀
