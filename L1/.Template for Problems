@@ -1,0 +1,42 @@
+# Problem Template
+
+## [Problem Name](#)
+
+### Description
+
+```markdown
+> This is a detailed problem description. You can include constraints, examples, and problem requirements here.
+```
+
+### Solution
+
+```java
+// Your solution code goes here
+// Example:
+public class Solution {
+    public static void main(String[] args) {
+        // Add your Java code here
+    }
+}
+```
+
+```cpp
+// Your solution code goes here
+// Example:
+#include <iostream>
+using namespace std;
+
+int main() {
+    // Add your C++ code here
+    return 0;
+}
+```
+
+### Notes
+
+```markdown
+- Note 1: Add important notes or clarifications about the problem.
+- Note 2: This section can also include references to related problems or concepts.
+```
+
+[Back to Problem List](#list-of-problems)
