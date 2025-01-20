@@ -35,17 +35,17 @@ The **L1** topics focus on building a strong foundation in data structures and a
 
 The **L2** topics delve into intermediate techniques to deepen your understanding. 🛠️  
 
-- 🖇️ **[Arrays and Strings](L2/Arrays%20and%20Strings.md)**  
-- 🧮 **[Bit Manipulation](L2/Bit%20Manipulation.md)**  
-- 🌲 **[Binary Trees](L2/Binary%20Trees.md)**  
-- 🧩 **[Dynamic Programming](L2/Dynamic%20Programming.md)**  
-- 🌐 **[Graphs](L2/Graphs.md)**  
-- 🗄️ **[Hashmaps and Heaps](L2/Hashmaps%20and%20Heaps.md)**  
-- 🔗 **[Linked List](L2/Linked%20List.md)**  
-- 🔍 **[Searching and Sorting](L2/Searching%20and%20Sorting.md)**  
-- 📚 **[Stack](L2/Stack.md)**  
-- 🌳 **[Tree](L2/Tree.md)**  
-- 📖 **[Trie](L2/Trie.md)**  
+1. 🔗 **[Linked List](L2/Linked%20List.md)**  
+2. 🖇️ **[Arrays and Strings](L2/Arrays%20and%20Strings.md)**  
+3. 🔍 **[Searching and Sorting](L2/Searching%20and%20Sorting.md)**  
+4. 🗄️ **[Hashmaps and Heaps](L2/Hashmaps%20and%20Heaps.md)**  
+5. 🧮 **[Bit Manipulation](L2/Bit%20Manipulation.md)**  
+6. 📚 **[Stack](L2/Stack.md)**  
+7. 🌳 **[Tree](L2/Tree.md)**  
+8. 🌲 **[Binary Trees](L2/Binary%20Trees.md)**  
+9. 📖 **[Trie](L2/Trie.md)**  
+10. 🌐 **[Graphs](L2/Graphs.md)**  
+11. 🧩 **[Dynamic Programming](L2/Dynamic%20Programming.md)**
 
 ---
 
