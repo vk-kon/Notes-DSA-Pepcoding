@@ -52,20 +52,19 @@ The **L2** topics delve into intermediate techniques to deepen your understandin
 ## 🟥 **L3 Topics (Advanced Techniques)**
 
 The **L3** topics are for advanced learners, focusing on competitive programming and optimization. 🎯  
-
-- ⚡ **[Binary Lifting](L3/Binary%20Lifting.md)**  
-- 🛠️ **[Constructive Algorithm](L3/Constructive%20Algorithm.md)**  
-- 🧩 **[Dynamic Programming (DP)](L3/DP.md)**  
-- 🔁 **[Euler Tour](L3/Euler%20Tour.md)**  
-- 🎮 **[Game Theory](L3/Game%20Theory.md)**  
-- 📐 **[Geometry](L3/Geometry.md)**  
-- 🏋️ **[Heavy Light Decomposition (HLD)](L3/HLD.md)**  
-- 💬 **[Interactive Problems](L3/Interactive%20Problems.md)**  
-- 📊 **[Mathematics for Competitive Programming (CP)](L3/Maths%20for%20CP.md)**  
-- 🔢 **[Number Theory](L3/Number%20Theory.md)**  
-- 📏 **[Range Queries](L3/Range%20Queries.md)**  
-- 🌲 **[Segment Tree](L3/Segment%20Tree.md)**  
-- 🖋️ **[Text Processing](L3/Text%20Processing.md)**  
+1. 🔢 **[Number Theory](L3/Number%20Theory.md)**  
+2. 📊 **[Mathematics for Competitive Programming (CP)](L3/Maths%20for%20CP.md)**  
+3. 🧩 **[Dynamic Programming (DP)](L3/DP.md)**  
+4. 📏 **[Range Queries](L3/Range%20Queries.md)**  
+5. 🌲 **[Segment Tree](L3/Segment%20Tree.md)**  
+6. ⚡ **[Binary Lifting](L3/Binary%20Lifting.md)**  
+7. 🏋️ **[Heavy Light Decomposition (HLD)](L3/HLD.md)**  
+8. 🔁 **[Euler Tour](L3/Euler%20Tour.md)**  
+9. 🖋️ **[Text Processing](L3/Text%20Processing.md)**  
+10. 📐 **[Geometry](L3/Geometry.md)**  
+11. 🛠️ **[Constructive Algorithm](L3/Constructive%20Algorithm.md)**  
+12. 🎮 **[Game Theory](L3/Game%20Theory.md)**  
+13. 💬 **[Interactive Problems](L3/Interactive%20Problems.md)**  
 
 ---
 
