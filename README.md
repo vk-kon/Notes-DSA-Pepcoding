@@ -73,4 +73,4 @@ The **L3** topics are for advanced learners, focusing on competitive programming
 
 ## 🌀 **Quick Navigation**
 
-- [⬆️ **Back to top**](#table-of-contents)
+[⬆️ **Back to top**](#table-of-contents)
